@@ -5,7 +5,7 @@ readme = "README.md"
 license = "MIT"
 version = "0.1.0"
 authors = ["Yannick Perrenet <yannickperrenet+bookmarkdown@gmail.com>"]
-repository = "https://github.com/yannickperrenet/bookmarkdown"
+homepage = "https://github.com/yannickperrenet/bookmarkdown"
 keywords = ["bookmarks", "markdown", "parser"]
 classifiers = [
     "Development Status :: 3 - Alpha",
