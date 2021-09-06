@@ -68,3 +68,8 @@ btm -r [md-file]
 
 btm -r --merge=[md-file] [html-file]
 ```
+
+### Project structure
+
+The project structure was automatically set up using `cookiecutter` and my Python template:
+[cutter-py](https://github.com/yannickperrenet/cutter-py).
