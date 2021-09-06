@@ -1,0 +1,6 @@
+# Configurations for poetry.
+
+[virtualenvs]
+# This way the pyright language server can be set up to automatically
+# detect the virtual environments.
+in-project = true  # will now always create in .venv

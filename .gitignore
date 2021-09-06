@@ -1,0 +1,24 @@
+# Compiled
+__pycache__/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+sdist/
+wheels/
+*.egg-info/
+
+# Packages
+node_modules/
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Mac files
+.DS_Store
+
+# VSCode
+.vscode

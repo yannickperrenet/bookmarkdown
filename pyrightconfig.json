@@ -1,0 +1,19 @@
+{
+  "include": [
+    "bookmarkdown"
+  ],
+
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    ".venv"
+  ],
+
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+
+  "pythonVersion": "3.9.2",
+  "pythonPlatform": "Linux",
+  "venvPath": ".",
+  "venv": ".venv"
+}

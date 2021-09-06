@@ -1,0 +1,17 @@
+# Remember that you can run git commands with the `--no-verify` flag to
+# not run any hooks.
+
+default_language_version:
+    python: python3.9.2
+
+repos:
+- repo: https://github.com/psf/black
+  rev: 20.8b1
+  hooks:
+    - id: black
+      name: black
+      entry: black
+      # Tells pre-commit how to install the hook.
+      language: python
+      # File types to run on.
+      types: [python]
